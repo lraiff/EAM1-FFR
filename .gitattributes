@@ -1,0 +1,5 @@
+# Source - https://stackoverflow.com/a/73218382
+# Posted by ocean11, modified by community. See post 'Timeline' for change history
+# Retrieved 2026-04-06, License - CC BY-SA 4.0
+
+*.ipynb filter=strip-notebook-output
